@@ -27,7 +27,7 @@
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
-
+voor het grbuiken heb je een mysql database nodig en moet je de host,port aanpassen in src/app.module.ts
 ```bash
 $ npm install
 ```
@@ -35,6 +35,8 @@ $ npm install
 ## Running the app
 
 ```bash
+
+
 # development
 $ npm run start
 
